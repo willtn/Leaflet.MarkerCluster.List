@@ -1,0 +1,24 @@
+{
+  "name": "leaflet.markercluster.list",
+  "version": "0.3.0",
+  "description": "leaflet.markercluster subplugin that lists all clustered elements in a table, suitable for mobile devices",
+  "main": "dist/leaflet-markercluster.list.js",
+  "authors": [
+    "Adam Mertel, University of Vienna"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "leaflet",
+    "markercluster",
+    "clustering"
+  ],
+  "homepage": "https://github.com/adammertel/Leaflet.MarkerCluster.List",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
